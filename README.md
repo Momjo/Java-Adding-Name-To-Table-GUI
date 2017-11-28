@@ -1,6 +1,6 @@
 # BallerWeb
 
-This is some java project to aading persons to the table
+This is some java project to ading persons to the table
 
 ## Development
 
